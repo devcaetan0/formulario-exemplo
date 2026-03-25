@@ -1,0 +1,56 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 239, 217)3;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+}
+
+h3 {
+    text-align: center;
+    color: orange;
+}
+
+.container {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid orange;
+    border-radius: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid orange;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.erro {
+    color: red;
+    font-size: 15px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.resultado {
+    text-align: center;
+    margin-top: 15px;
+    color: orange;
+}
